@@ -62,12 +62,12 @@ Caso não possível utilizar múltiplos de 8, utilizar 2, 4, 12 ou 16.
 
 Ajuda no alinhamento dos itens da interface. Para as diversas plataformas o tamanho e quantidade dos grid mudam.
 
-|                | Quantidade | Largura (px) |
-| -------------- | :--------: | :----------: |
-| Desktop        |     12     |      64      |
-| Tablet         |     8      |      56      |
-| Mobile Android |     4      |      56      |
-| Mobile IOS     |     6      |      41      |
+|                | Quantidade | Largura (px) |  Gutter (px) |
+| -------------- | :--------: | :----------: | :----------: |
+| Desktop        |     12     |      64      |      24      |
+| Tablet         |     8      |      56      |      24      |
+| Mobile Android |     4      |      56      |      16      |
+| Mobile IOS     |     6      |      41      |      16      |
 
 
 
